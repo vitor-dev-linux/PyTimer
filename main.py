@@ -11,7 +11,7 @@ from Fatorial import Fatorial
 from Timer import Timer 
 
 
-x = input("Quanto tempo quer contabilizar?: ")
+x = input("Quanto segundos quer contabilizar?: ")
 x = int(x)
 # Insertion function timer
 # 
